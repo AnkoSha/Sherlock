@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+    <string name="title_activity_second">Second</string>
+    <string name="previous">Кто подставил кролика Роджера?</string>
+    <string name="next">Кто подставил кролика Роджера?</string>
+    <string name="lorem_ipsum">Кто подставил кролика Роджера?</string>
+    <string name="first_fragment_label">Сделать выбор</string>
+    <string name="second_fragment_label">Сделать выбор</string>
+
+</resources>
